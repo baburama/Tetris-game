@@ -18,7 +18,7 @@ python main.py
 
 
 Video Demo
-A video demo of the game is included in video_demo.mp4.
+A video demo of the game is included in Tetris_Demo.
 
 Enjoy playing!
 
